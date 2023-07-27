@@ -22,7 +22,7 @@ footer, header, main, nav, section {
 address, article, aside, blockquote, body, cite, 
 div, dl, dt, dd, em, figcaption, figure, footer, 
 h1, h2, h3, h4, h5, h6, header, html, img, 
-li, main, nav, nav a, ol, p, section, span, ul,
+li, main, nav, nav a, ol, p, section, span,
 table, tr, td, th, col, colgroup {
    margin: 0;
    padding: 0;
@@ -39,15 +39,6 @@ table, tr, td, th, col, colgroup {
 
 body {
    line-height: 1.2em;
-}
-
-ul, ol {
-   list-style: none;
-}
-
-nav ul {
-   list-style: none;
-   list-style-image: none;
 }
 
 nav a {
